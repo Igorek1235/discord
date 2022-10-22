@@ -1,0 +1,108 @@
+body {
+    background-color: black;
+    font-family: center;
+  }
+
+  img {
+    display: block;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+    .glow {
+        font-size: 50px;
+        color: rgb(254, 254, 254);
+        text-align: center;
+        animation: glow 1s ease-in-out infinite alternate;
+      }
+      
+      @-webkit-keyframes glow {
+        from {
+          text-shadow: 0 0 10px #7a0066, 0 0 20px #7a0066, 0 0 30px #7a0066, 0 0 40px #7a0066, 0 0 50px #7a0066, 0 0 60px #7a0066, 0 0 70px #15ff00;
+        }
+        
+        to {
+          text-shadow: 0 0 20px #7a0066, 0 0 30px #7a0066, 0 0 40px #7a0066, 0 0 50px #7a0066, 0 0 60px #7a0066, 0 0 70px #7a0066, 0 0 80px #ff00d4;
+        }
+      }
+
+hr.hr1 {
+        border-top: 1px dashed red;
+        width: 30%;
+      }
+hr.hr2 {
+        border: 2px solid red;
+        width: 40%;
+      }
+.heading { color: #fff;}
+
+#demo {color: red;}
+
+.footer p{
+            padding: 5px;
+            background-color: rgb(250, 243, 243);
+            font-weight: bold;
+            text-align: center;
+        }
+.footer i
+{
+    color: red;
+}
+.font {
+        border-top: 1px dashed red;
+        width: 30%;
+      }
+
+      .JD {
+        font-size: 50px;
+        color: rgb(254, 254, 254);
+        text-align: center;
+        animation: JD 1s ease-in-out infinite alternate;
+      }
+      
+      @-webkit-keyframes JD {
+        from {
+          text-shadow: 0 0 10px #020486, 0 0 20px #020486, 0 0 30px #020486, 0 0 40px #020486, 0 0 50px #020486, 0 0 60px #020486, 0 0 70px #0004ff;
+        }
+        
+        to {
+          text-shadow: 0 0 20px #3d0e53, 0 0 30px #3d0e53, 0 0 40px #3d0e53, 0 0 50px #3d0e53, 0 0 60px #3d0e53, 0 0 70px #3d0e53, 0 0 80px #fffb00;
+        }
+      }
+
+
+
+      .PP {
+        font-size: 50px;
+        color: rgb(254, 254, 254);
+        text-align: center;
+        animation: PP 1s ease-in-out infinite alternate;
+      }
+      
+      @-webkit-keyframes PP {
+        from {
+          text-shadow: 0 0 10px #020486, 0 0 20px #020486, 0 0 30px #020486, 0 0 40px #020486, 0 0 50px #020486, 0 0 60px #020486, 0 0 70px #0004ff;
+        }
+        
+        to {
+          text-shadow: 0 0 20px #3d0e53, 0 0 30px #3d0e53, 0 0 40px #3d0e53, 0 0 50px #3d0e53, 0 0 60px #3d0e53, 0 0 70px #3d0e53, 0 0 80px #fffb00;
+        }
+      }
+
+      .GG {
+        font-size: 50px;
+        color: rgb(254, 254, 254);
+        text-align: center;
+        animation: GG 1s ease-in-out infinite alternate;
+      }
+      
+      @-webkit-keyframes GG {
+        from {
+          text-shadow: 0 0 10px #020486, 0 0 20px #020486, 0 0 30px #020486, 0 0 40px #020486, 0 0 50px #020486, 0 0 60px #020486, 0 0 70px #0004ff;
+        }
+        
+        to {
+          text-shadow: 0 0 20px #0c0052, 0 0 30px #0c0052, 0 0 40px #0c0052, 0 0 50px #0c0052, 0 0 60px #0c0052, 0 0 70px #0c0052, 0 0 80px #fffb00;
+        }
+      }
